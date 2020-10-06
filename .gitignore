@@ -1,0 +1,12 @@
+*.bsp
+*.backup
+*.prt
+*.vmx
+*.log
+*.lin
+*.vmf_autosave
+*.unpacked
+*.nav
+*.json
+/materials
+/models
